@@ -1,0 +1,3 @@
+main = "./src/index.ts"
+name = "worker-template-router-typescript"
+compatibility_date = "2022-12-26"
